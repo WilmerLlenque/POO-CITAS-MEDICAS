@@ -1,0 +1,34 @@
+
+Š
+java:S1104"hMake pacientesConCitasDisponibles a static final constant or non-public and provide accessors if needed.(Û«¿Äúÿÿÿÿ8ÛûÚ¢æ1
+d
+java:S1444"BMake this "public static pacientesConCitasDisponibles" field final(Û«¿Äúÿÿÿÿ8ÜûÚ¢æ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÕŒüÿÿÿÿ8ŞûÚ¢æ1
+U
+java:S2589q"8Remove this expression which always evaluates to "false"(±™‡â8°ıÚ¢æ1
+?
+java:S2386"Make this member "protected".(Û«¿Äúÿÿÿÿ8²ıÚ¢æ1
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(‹¤°°8µıÚ¢æ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÔÉúÿÿÿÿ8¼ıÚ¢æ1
+L	java:S106"+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8¾ıÚ¢æ1
+L	java:S106"+Replace this use of System.out by a logger.(áÉÁÖÿÿÿÿÿ8¾ıÚ¢æ1
+G	java:S106"+Replace this use of System.out by a logger.(ëÄ´÷8¿ıÚ¢æ1
+G	java:S106"+Replace this use of System.out by a logger.(ÿÀ“½8¿ıÚ¢æ1
+L	java:S106!"+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8ÀıÚ¢æ1
+G	java:S106$"+Replace this use of System.out by a logger.(‹Åä¥8ÁıÚ¢æ1
+L	java:S1060"+Replace this use of System.out by a logger.(İÎÄÏüÿÿÿÿ8ÂıÚ¢æ1
+L	java:S1061"+Replace this use of System.out by a logger.(ƒ–Ùïûÿÿÿÿ8ÂıÚ¢æ1
+G	java:S106>"+Replace this use of System.out by a logger.(¯½Ë¬8ÇıÚ¢æ1
+X	java:S125="<This block of commented-out lines of code should be removed.(¿«î¢8ÇıÚ¢æ1
+L	java:S106E"+Replace this use of System.out by a logger.(úğ´¼øÿÿÿÿ8ÉıÚ¢æ1
+G	java:S106R"+Replace this use of System.out by a logger.(«˜â±8ËıÚ¢æ1
+L	java:S106S"+Replace this use of System.out by a logger.(í‡Òşÿÿÿÿ8ËıÚ¢æ1
+L	java:S106U"+Replace this use of System.out by a logger.(Ø †‰ùÿÿÿÿ8ÌıÚ¢æ1
+G	java:S106f"+Replace this use of System.out by a logger.(Çñõ‚8ÎıÚ¢æ1
+`
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(½Çéòøÿÿÿÿ8ÏıÚ¢æ1
+L	java:S106h"+Replace this use of System.out by a logger.(º³ÑÎıÿÿÿÿ8ÏıÚ¢æ1
+L	java:S106n"+Replace this use of System.out by a logger.(ÖõçÙüÿÿÿÿ8ÏıÚ¢æ1
+X	java:S125m"<This block of commented-out lines of code should be removed.(ùªœš8ĞıÚ¢æ1
